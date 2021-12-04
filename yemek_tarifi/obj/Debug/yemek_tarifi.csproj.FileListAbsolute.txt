@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\yemek_tarifi\bin\Debug\yemek_tarifi.exe.config
+C:\Users\yusuf\source\repos\yemek_tarifi\bin\Debug\yemek_tarifi.exe
+C:\Users\yusuf\source\repos\yemek_tarifi\bin\Debug\yemek_tarifi.pdb
+C:\Users\yusuf\source\repos\yemek_tarifi\obj\Debug\yemek_tarifi.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\yemek_tarifi\obj\Debug\yemek_tarifi.Form1.resources
+C:\Users\yusuf\source\repos\yemek_tarifi\obj\Debug\yemek_tarifi.Properties.Resources.resources
+C:\Users\yusuf\source\repos\yemek_tarifi\obj\Debug\yemek_tarifi.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\yemek_tarifi\obj\Debug\yemek_tarifi.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\yemek_tarifi\obj\Debug\yemek_tarifi.exe
+C:\Users\yusuf\source\repos\yemek_tarifi\obj\Debug\yemek_tarifi.pdb
